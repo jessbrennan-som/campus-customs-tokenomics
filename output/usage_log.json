@@ -1,0 +1,28 @@
+[
+  {
+    "time": "2026-11-09T22:15:20",
+    "doc": "data-4/practice_docs/p01_bluehen_quote.html",
+    "model": "gpt-6-luna",
+    "seconds": 6.15,
+    "requests": 2,
+    "input_tokens": 22135,
+    "cached_input_tokens": 10860,
+    "cache_write_tokens": 11023,
+    "output_tokens": 191,
+    "total_tokens": 22326,
+    "cost_usd": 0.00160717
+  },
+  {
+    "time": "2026-11-09T22:15:41",
+    "doc": "data-4/practice_docs/p08_chapelst_email.eml",
+    "model": "gpt-6-luna",
+    "seconds": 7.06,
+    "requests": 2,
+    "input_tokens": 22130,
+    "cached_input_tokens": 21701,
+    "cache_write_tokens": 177,
+    "output_tokens": 165,
+    "total_tokens": 22295,
+    "cost_usd": 0.00034683
+  }
+]
